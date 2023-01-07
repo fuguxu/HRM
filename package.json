@@ -12,7 +12,7 @@
   "license": "ISC",
   "devDependencies": {
     "express": "^4.17.1",
-    "html-webpack-plugin": "^3.2.0",
+    "html-webpack-plugin": "^5.5.0",
     "mime": "^2.4.4",
     "socket.io": "^2.2.0",
     "webpack": "^4.39.1",
